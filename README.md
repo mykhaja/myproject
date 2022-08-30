@@ -1,2 +1,3 @@
 # myproject
-my first sql project
+my first sql git 
+change
